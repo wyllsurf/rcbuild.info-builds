@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "DXL Racing Quad",
+    "esc": "DYS/Mini-30A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "HQProp/5x4.5-FG-BN"
+    ],
+    "arm": "",
+    "battery": [
+      "Dinogy/4S-1800mAh-65C"
+    ],
+    "osd": "",
+    "receiver": "DragonLabs/Dragon-Link-Micro-Receiver---Next-Gen-Firmware---12\"-Antenna",
+    "flightcam": "RunCam/PZ0420M",
+    "hqcam": "Xiaomi/Yi-Action-Camera-1080P-60FPS-(White)",
+    "videotx": "RMRC 1.3ghz 200mw",
+    "blackbox": "",
+    "voltagereg": "Matcat RC LC and 12v bec"
+  },
+  "version": 1
 }
